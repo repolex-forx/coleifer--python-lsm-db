@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/coleifer/python-lsm-db/commit/c375670648386485e42540f251fff03767e9808b",
       "git:hexsha": "c375670648386485e42540f251fff03767e9808b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "0.7.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "0.7.3",
+      "repolex:parsedAt": "2026-10-20T20:22:03.048252+00:00"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/python-lsm-db/commit/1d61b8c2a7892a1f8347567503d3292eff92749e",
